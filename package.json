@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-speed",
+  "version": "1.0.0",
+  "description": "Speed up/slow down effect for ffmpeg.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "#Just team",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
