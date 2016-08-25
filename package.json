@@ -7,6 +7,5 @@
   "author": "#Just team",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.2"
   }
 }
